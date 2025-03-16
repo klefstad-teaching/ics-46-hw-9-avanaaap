@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
     Graph G;
-    file_to_graph("./src/small.txt", G);  
+    file_to_graph("./src/medium.txt", G);  
 
     int source = 0;
 
